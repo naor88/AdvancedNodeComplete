@@ -1,0 +1,6 @@
+
+https://www.youtube.com/watch?v=yt38b_Ave6I
+https://stackoverflow.com/questions/17585881/amazon-s3-direct-file-upload-from-client-browser-private-key-disclosure
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingHTTPPOST.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/HTTPPOSTExamples.html
+https://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-post-example.html
