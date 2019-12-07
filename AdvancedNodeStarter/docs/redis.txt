@@ -1,0 +1,8 @@
+Versions of available redis found at:
+https://github.com/ServiceStack/redis-windows/tree/master/downloads
+
+Take the:
+redis-latest.zip
+
+After unzip run:
+redis-server.exe
